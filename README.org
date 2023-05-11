@@ -1,0 +1,9 @@
+* global-vars
+
+Define efficient global variables in Common Lisp.
+
+|---------+--------------------------------------------|
+| source  | git:https://github.com/lmj/global-vars.git |
+| commit  | c749f32                                    |
+| systems | global-vars                                |
+|---------+--------------------------------------------|
